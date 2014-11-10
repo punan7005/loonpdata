@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="loonpdata"
+  id="myeclipse.1415590977062"
+  context-root="/loonpdata"
+  j2ee-spec="5.0"
+  archive="loonpdata.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
